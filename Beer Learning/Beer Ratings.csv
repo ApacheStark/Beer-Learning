@@ -1,0 +1,56 @@
+Name,Region,Type,SubType,Source,IBU,Alco,SamRate
+Feral Sly Fox,WA,Ale,Pale,Tap,20,4.7,78
+Little Creatures,VIC,Ale,Pale,Tap,15,4.6,55
+Tooheys Extra Dry,NSW,Lager,Lager,Bottle,10,4.6,70
+Chang,Thailand,Lager,Lager,Bottle,12,5,72
+Heineken,Netherlands,Lager,Lager,Bottle,5,5,40
+Nine Tails,NSW,Ale,Amber,Bottle,20,4.8,73
+Stone and Wood,NSW,Ale,Pacific,Tap,10,4.4,95
+The Hills,VIC,Lager,Cider,Tap,0,5,89
+Beemead,NSW,Ale,Mead,Bottle,0,4.5,96
+Prickly Moses,VIC,Ale,Pale,Bottle,25,4.5,80
+Pure Blonde,VIC,Lager,Lager,Bottle,5,4.6,65
+XXXX,QLD,Lager,Lager,Tap,14,4.4,68
+VB,VIC,Lager,Lager,Bottle,10,4.9,70
+Carlton Draught,VIC,Lager,Lager,Bottle,5,4.8,40
+James Boags Draught,VIC,Lager,Lager,Bottle,5,4.6,38
+4 Pines Kolsch,NSW,Ale,Kolsch,Bottle,22,4.6,81
+4 Pines Pale,NSW,Ale,Pale,Bottle,35,5.1,59
+150 Lashes,NSW,Ale,Pale,Tap,20,4.2,88
+Furphy,VIC,Ale,Pale,Tap,15,4.4,83
+Alpine Ale,VIC,Ale,Pale,Tap,20,4.4,89
+Bright Lager,VIC,Lager,Lager,Tap,10,4.7,64
+Pilot,VIC,Ale,Light,Tap,0,2.6,55
+Hellfire Amber,VIC,Ale,Amber,Tap,28,5,61
+Blowhard Pale,VIC,Ale,Pale,Tap,25,5,69
+Razor Witbier,VIC,Ale,Witbier,Tap,15,5,74
+Alpine Dry Cider,VIC,Lager,Cider,Tap,0,4.4,80
+Batlow Saison Apple,VIC,Lager,Cider,Tap,5,5.7,82
+Fainters Dubbel,VIC,Ale,Dubbel,Tap,50,8.5,72
+Staircase Porter,VIC,Ale,Porter,Tap,40,5.7,68
+Estrella,Spain,Lager,Lager,Bottle,5,4.4,86
+Easy Rider,VIC,Ale,Summer,Bottle,10,4.5,89
+Lazy Yak,VIC,Ale,Summer,Bottle,15,4.2,80
+Hahn Super Dry,VIC,Lager,Lager,Bottle,5,4.4,75
+Golden Ridge Bitter,VIC,Lager,Lager,Bottle,25,4.9,44
+Golden Ridge Pale,VIC,Ale,Pale,Bottle,30,4.9,31
+Golden Ridge Wheat,VIC,Ale,Witbier,Bottle,22,4.4,35
+Golden Ridge IPA,VIC,Ale,IPA,Bottle,50,5.5,41
+Miss Pinky Rasp Weisse,VIC,Ale,Light,Bottle,5,3.3,63
+White Rabbit White,VIC,Ale,Witbier,Bottle,15,4.5,80
+Sierra Nevada Pale,USA,Ale,Pale,Bottle,38,5.6,76
+Endeavour Amber,NSW,Ale,Amber,Bottle,42,5.2,74
+Angry Orchard Apple,NSW,Lager,Cider,Bottle,0,5,79
+Schofferhofer Hefeweizen,Germany,Ale,Witbier,Bottle,14,5,83
+Angry Man Pale,NSW,Ale,Pale,Bottle,10,4.8,77
+Hawthorn Pale,VIC,Ale,Pale,Tap,12,4.8,85
+Hawthorn Pilsner,VIC,Ale,Pilsner,Tap,10,4.7,80
+Panhead Pale,VIC,Ale,Pale,Tap,15,4.9,73
+Beechworth Pale,VIC,Ale,Pale,Tap,18,4.8,71
+The Chancer,NSW,Ale,Golden,Bottle,12,4.6,81
+Hahn Premium Light,VIC,Lager,Light,Bottle,0,3,62
+Steamrail Pale,VIC,Ale,Pale,Bottle,10,4.5,79
+Lychee Gold,NSW,Lager,Lychee,Bottle,0,8,78
+Red Hill Scoth,VIC,Ale,Scotch,Bottle,17,5.8,77
+Hargreaves Pale,VIC,Ale,Pale,Bottle,10,4.9,70
+Hargreaves Hef,VIC,Ale,Witbier,Bottle,7,4.9,80
